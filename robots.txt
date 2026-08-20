@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://docbaothayban247-a11y.github.io/sitemap.xml
+Sitemap: https://docbaothayban247-a11y.github.io/manhwa-reviews/sitemap.xml
+LLM-Reference: https://docbaothayban247-a11y.github.io/llms.txt
