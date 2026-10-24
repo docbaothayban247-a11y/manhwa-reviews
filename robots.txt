@@ -1,5 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://docbaothayban247-a11y.github.io/sitemap.xml
-# LLM-Reference: https://docbaothayban247-a11y.github.io/llms.txt
